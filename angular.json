@@ -27,8 +27,14 @@
             "styles": [
               "src/styles.css"
 
+
             ],
             "scripts": [
+<<<<<<< HEAD
+=======
+              "node_modules/bootstrap/dist/js/bootstrap.min.js"
+
+>>>>>>> b4db09f571e6de44ece90857c1b2853e75dc44ac
             ]
           },
           "configurations": {
@@ -92,8 +98,15 @@
               "src/styles.css"
 
 
+
+
             ],
             "scripts": [
+<<<<<<< HEAD
+=======
+              "node_modules/bootstrap/dist/js/bootstrap.min.js"
+
+>>>>>>> b4db09f571e6de44ece90857c1b2853e75dc44ac
 
 
           ]
