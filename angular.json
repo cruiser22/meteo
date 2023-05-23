@@ -25,16 +25,16 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css"
+
 
 
             ],
             "scripts": [
-<<<<<<< HEAD
-=======
               "node_modules/bootstrap/dist/js/bootstrap.min.js"
 
->>>>>>> b4db09f571e6de44ece90857c1b2853e75dc44ac
+
             ]
           },
           "configurations": {
@@ -95,18 +95,16 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css"
 
 
 
 
             ],
             "scripts": [
-<<<<<<< HEAD
-=======
               "node_modules/bootstrap/dist/js/bootstrap.min.js"
 
->>>>>>> b4db09f571e6de44ece90857c1b2853e75dc44ac
 
 
           ]
