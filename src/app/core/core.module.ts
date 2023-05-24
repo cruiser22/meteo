@@ -1,15 +1,15 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
-import {FooterComponent} from 'src/app/src/core/layout/footer/footer.component'
-import { SlidebarComponent } from './layout/slidebar/slidebar.component'
+import {FooterComponent} from 'src/app/core/layout/footer/footer.component'
+
 
 import { RouterModule } from '@angular/router';
 
 
 @NgModule({
   declarations: [
-    SlidebarComponent,
+    
     FooterComponent
   ],
   imports: [
@@ -17,7 +17,7 @@ import { RouterModule } from '@angular/router';
     RouterModule
   ],
   exports: [
-    SlidebarComponent,
+    
     FooterComponent
   ]
 })
