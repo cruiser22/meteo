@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./slidebar.component.css']
 })
 export class SlidebarComponent {
+  activeTab: string = 'currentWeather';
 
+  setActiveTab(tab: string) {
+    this.activeTab = tab;
+
+}
 }
